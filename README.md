@@ -1,4 +1,5 @@
 Hello, my name is Kacper
+
 My interest in programming arose during my studies
 master's degrees, where we learned the basics of programming in Phyton.
 I used the knowledge I acquired there when writing my master's thesis.
